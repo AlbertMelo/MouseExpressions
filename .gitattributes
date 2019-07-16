@@ -1,0 +1,6 @@
+cv2.x86_64-linux-gnu.so filter=lfs diff=lfs merge=lfs -text
+modelo_cnn_major_20_10.h5 filter=lfs diff=lfs merge=lfs -text
+treinamento/Facial-Expression-Recognition/fer2013.csv filter=lfs diff=lfs merge=lfs -text
+model/modelo_cnn_major_20_10.h5 filter=lfs diff=lfs merge=lfs -text
+treinamento/data/bottleneck/bottleneck_features_vgg16.npz filter=lfs diff=lfs merge=lfs -text
+treinamento/data/fer2013.csv filter=lfs diff=lfs merge=lfs -text
