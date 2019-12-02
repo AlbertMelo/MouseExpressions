@@ -33,7 +33,7 @@ Pré-requsitos:
     
 -Ambiente Virtual:
 
-    Caso não queria comprometer a sua versão do Python, recomendamos utilizar o conda 4.5.11.
+    Caso não deseje comprometer a sua versão do Python, recomenda-se utilizar o conda 4.5.11.
 -IDE
     Utilizamos para desenvolver o projeto a IDE Visual Code Studio.
     
